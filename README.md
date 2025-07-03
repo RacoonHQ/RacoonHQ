@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RacoonHQ/RacoonHQ/main/hero.png " width="400" />
+  <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads01&accessoriesType=Round&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=CollarSweater&clotheColor=Black&eyeType=Surprised&eyebrowType=Default&mouthType=Smile&skinColor=Light'
+/>
 
   <h1>Hai 👋, Saya RacoonHQ</h1>
   <p>
