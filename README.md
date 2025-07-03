@@ -18,6 +18,10 @@
   </p>
 
   <p>
+    🤖 Selain coding, saya suka membangun website dan aplikasi dengan bantuan AI, seperti memanfaatkan tools AI untuk desain UI, penulisan kode otomatis, dan optimasi logika program.
+  </p>
+
+  <p>
     📚 Saat ini sedang menempuh semester 5 di <strong>Universitas Darma Persada</strong>, sebelumnya lulus dari SMKN 1 Jakarta jurusan Teknik Komputer dan Jaringan.
   </p>
 
@@ -51,11 +55,12 @@
 | **Backend**     | PHP                         |
 | **Database**    | MySQL                       |
 | **Frontend**    | HTML, CSS, Bootstrap, Tailwind CSS |
-| **Tools**       | Git, GitHub, VS Code        |
+| **Tools AI**    | ChatGPT, Gemini, Codeium, Tabnine |
+| **Tools Dev**   | Git, GitHub, VS Code        |
 
 ---
 
-## 📚 Pendidikan
+## 🎓 Pendidikan
 
 - **Universitas Darma Persada**  
   _Teknologi Informasi_ — Semester 5 (2024)
@@ -65,13 +70,25 @@
 
 ---
 
+## 🧠 Pendekatan Saya Dalam Berkoding
+
+Saya percaya bahwa **AI bukan pengganti programmer**, melainkan **alat bantu** yang bisa mempercepat proses coding, debugging, dan ide development. Beberapa cara saya memanfaatkan AI:
+
+- Menghasilkan boilerplate code
+- Menulis dokumentasi otomatis
+- Memperbaiki dan mengoptimalkan logika
+- Membantu belajar konsep baru
+- Merancang struktur database & UI
+
+---
+
 ## 📦 Projects Favorit
 
-### 1. [Aplikasi CRUD dengan PHP & MySQL]( https://github.com/RacoonHQ/crud-php-mysql )  
-> Aplikasi sederhana untuk latihan dasar-dasar web development
+### 1. [Website Portofolio Interaktif]( https://github.com/RacoonHQ/portfolio )  
+> Dibangun dengan HTML, Tailwind CSS, dan JavaScript vanilla. Didesain dengan bantuan AI untuk UI/UX.
 
-### 2. [Portofolio Personal Website](https://github.com/RacoonHQ/my-portfolio )  
-> Portofolio pribadi dibangun dengan HTML, CSS, dan JavaScript vanilla
+### 2. [Aplikasi CRUD dengan PHP & MySQL](https://github.com/RacoonHQ/crud-php-mysql )  
+> Studi kasus penggunaan AI dalam membuat template form dan validasi otomatis.
 
 *Catatan: Ganti link di atas dengan repositori milikmu sendiri.*
 
@@ -80,5 +97,26 @@
 ## 🌐 Hubungi Saya
 
 - 📘 LinkedIn: [linkedin.com/in/nama-anda](https://www.linkedin.com/in/nama-anda )
-- 🐦 Twitter: [@racoonhq_dev](https://twitter.com/racoonhq_dev )
+- 🐦 Twitter/X: [@racoonhq_dev](https://twitter.com/racoonhq_dev )
 - 📧 Email: [racoon.hq@example.com](mailto:racoon.hq@example.com)
+
+---
+
+## 🧰 Tips Tambahan:
+Kalau kamu punya blog, channel YouTube, atau Medium, kamu bisa tambahkan badge atau link ke sana. Misalnya kalau kamu menulis artikel tentang coding atau review AI tools, itu bakal menambah nilai profesionalmu.
+
+---
+
+## 🖼️ Rekomendasi Gambar Profil / Hero Image
+Karena kamu suka dengan AI, kamu bisa gunakan gambar avatar ala AI. Contoh prompt untuk AI image generator (seperti Bing Image Creator atau Leonardo.Ai):
+
+> “Digital cartoon avatar of a young developer using a laptop with glowing AI interface, futuristic background, flat design style”
+
+Upload hasilnya sebagai `hero.png` di repo kamu.
+
+---
+
+## 📥 Ingin File `.md` Siap Pakai?
+Kalau kamu mau, aku bisa bantu bikinin file `.md` lengkap yang tinggal download dan upload ke GitHub kamu. Tinggal bilang "iya", aku kirim format teks mentahnya.
+
+Mau lanjut ke langkah itu atau kamu ingin edit manual dulu? 😊
