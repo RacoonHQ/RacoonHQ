@@ -4,7 +4,7 @@
 
   <h1>Hai 👋, Saya RacoonHQ</h1>
   <p>
-    <b>Full-stack Developer | Mahasiswa Teknologi Informasi @Univ. Darma Persada</b>
+    <b>Full-stack Developer | Mahasiswa Teknologi Informasi Universitas Darma Persada</b>
   </p>
 
   <p>
