@@ -27,8 +27,8 @@
 ---
 
 ### 📦 Project Unggulan
-- [🌐 Website Portofolio Interaktif](https://github.com/RacoonHQ/portfolio)  
-- [📋 CRUD App dengan PHP & MySQL](https://github.com/RacoonHQ/crud-php-mysql)
+- [Website SpeedTest Internet](https://github.com/RacoonHQ/netest-speedtest)  
+- [Website QR Code Generator](https://github.com/RacoonHQ/qreat-qr-generator)
 
 ---
 
