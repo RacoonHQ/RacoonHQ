@@ -49,24 +49,19 @@ Halo! Saya **RacoonHQ**, seorang Full-stack Developer yang sedang menempuh pendi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+## 🎮 Snake Game
 
 <div align="center">
-  <a href="https://github.com/RacoonHQ">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RacoonHQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/RacoonHQ">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacoonHQ&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-  </a>
+  <img src="https://github.com/RacoonHQ/RacoonHQ/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
   
-  <p>Statistik GitHub mungkin tidak selalu akurat karena keterbatasan API GitHub</p>
+  <p>Game ular yang dibuat dengan GitHub Contribution Graph</p>
 </div>
 
-## 🏆 Pencapaian GitHub
+## 📊 GitHub Stats Ringkas
 
 <div align="center">
   <a href="https://github.com/RacoonHQ">
-    <img src="https://github-profile-trophy.vercel.app/?username=RacoonHQ&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacoonHQ&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
