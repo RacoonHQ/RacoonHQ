@@ -5,9 +5,6 @@
   <h3>Full-stack Developer | Mahasiswa Teknologi Informasi</h3>
   
   <p align="center">
-    <a href="https://github.com/RacoonHQ">
-      <img src="https://img.shields.io/github/followers/RacoonHQ?label=Follow&style=social" alt="GitHub Follow">
-    </a>
     &nbsp;
     <a href="https://instagram.com/samabdlh_">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -17,20 +14,17 @@
 
 ## 🚀 Tentang Saya
 
-```javascript
-const racoonhq = {
-  code: ["Javascript", "PHP", "HTML", "CSS"],
-  technologies: {
-    frontend: ["React", "Bootstrap", "TailwindCSS"],
-    backend: ["Node.js", "PHP"],
-    database: ["MySQL", "MongoDB"],
-    tools: ["Git", "VS Code", "Figma"]
-  },
-  education: "Teknologi Informasi @ Universitas Darma Persada",
-  previousEducation: "SMKN 1 Jakarta (Teknik Komputer & Jaringan)",
-  motto: "Code, Learn, Build, and Repeat!"
-};
-```
+Halo! Saya **RacoonHQ**, seorang Full-stack Developer yang sedang menempuh pendidikan di **Universitas Darma Persada** jurusan Teknologi Informasi. Sebelumnya saya lulusan **SMKN 1 Jakarta** jurusan Teknik Komputer & Jaringan.
+
+### 💻 Teknologi yang Saya Kuasai
+- **Bahasa Pemrograman**: JavaScript, PHP, HTML, CSS
+- **Frontend**: React, Bootstrap, TailwindCSS
+- **Backend**: Node.js, PHP
+- **Database**: MySQL, MongoDB
+- **Tools**: Git, VS Code, Figma
+
+### 🎯 Filosofi
+"Code, Learn, Build, and Repeat!" - Saya percaya bahwa pembelajaran adalah proses berkelanjutan dalam dunia pengembangan perangkat lunak.
 
 ## 🛠️ Tech Stack
 
