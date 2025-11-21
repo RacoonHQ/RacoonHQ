@@ -49,17 +49,26 @@ Halo! Saya **RacoonHQ**, seorang Full-stack Developer yang sedang menempuh pendi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RacoonHQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacoonHQ&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RacoonHQ&theme=radical" alt="RacoonHQ's GitHub Streak" />
+  <a href="https://github.com/RacoonHQ">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RacoonHQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/RacoonHQ">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacoonHQ&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  </a>
+  
+  <p>Statistik GitHub mungkin tidak selalu akurat karena keterbatasan API GitHub</p>
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Pencapaian GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RacoonHQ&theme=radical&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/RacoonHQ">
+    <img src="https://github-profile-trophy.vercel.app/?username=RacoonHQ&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ## � Project Unggulan
 
