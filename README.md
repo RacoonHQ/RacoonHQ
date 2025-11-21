@@ -4,10 +4,11 @@
   <h1>Hai 👋, Saya <b>RacoonHQ</b></h1>
   <h3>Full-stack Developer | Mahasiswa Teknologi Informasi</h3>
   
-  <p>
+  <p align="center">
     <a href="https://github.com/RacoonHQ">
       <img src="https://img.shields.io/github/followers/RacoonHQ?label=Follow&style=social" alt="GitHub Follow">
     </a>
+    &nbsp;
     <a href="https://instagram.com/samabdlh_">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
@@ -74,7 +75,7 @@ const racoonhq = {
 ### [Website QR Code Generator](https://github.com/RacoonHQ/qreat-qr-generator)
 > Generator QR Code online yang cepat dan mudah digunakan.
 
-## � Hubungi Saya
+## 📫 Hubungi Saya
 
 <p align="left">
   <a href="mailto:wagoneid@gmail.com">
@@ -88,7 +89,7 @@ const racoonhq = {
   </a>
 </p>
 
-## � Visitor Count
+## 👀 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/RacoonHQ/count.svg)
 
