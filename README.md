@@ -80,10 +80,6 @@ Halo! Saya **RacoonHQ**, seorang Full-stack Developer yang sedang menempuh pendi
   </a>
 </p>
 
-## 👀 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/RacoonHQ/count.svg)
-
 ## ⚡ Fun Fact
 
 > "The best error message is the one that never shows up." - Thomas Fuchs
