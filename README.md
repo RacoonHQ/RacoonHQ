@@ -49,13 +49,6 @@ Halo! Saya **RacoonHQ**, seorang Full-stack Developer yang sedang menempuh pendi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🎮 Snake Game
-
-<div align="center">
-  <img src="https://github.com/RacoonHQ/RacoonHQ/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-  
-  <p>Game ular yang dibuat dengan GitHub Contribution Graph</p>
-</div>
 
 ## 📊 GitHub Stats Ringkas
 
