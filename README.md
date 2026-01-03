@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Sayyid Abdullah Azzam</h3>
+<h1 align="center">Sayyid Abdullah Azzam</h1>
 
 <p align="center">
   <i>Information Technology Student | Hardware Enthusiast | IT Explorer</i>
