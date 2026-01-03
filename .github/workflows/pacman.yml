@@ -18,6 +18,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -28,6 +31,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
