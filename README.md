@@ -1,5 +1,16 @@
 <h1 align="center">RacoonHQ</h1>
 
+<h3 align="center">Sayyid Abdullah Azzam</h3>
+
+<p align="center">
+  <i>Information Technology Student | Hardware Enthusiast | IT Explorer</i>
+</p>
+
+<p align="center">
+  5th Semester Student at Universitas Darma Persada, Majoring in Information Technology. 
+  Passionate about IT and computer hardware, with a strong interest in exploring both software and hardware technologies.
+</p>
+
 ###
 
 <div align="center">
