@@ -6,6 +6,8 @@
 
 <h1 align="center">RacoonHQ</h1>
 
+<h3 align="center">Sayyid Abdullah Azzam</h3>
+
 <p align="center">
   <i>Information Technology Student | Hardware Enthusiast | IT Explorer</i><br><br>
   5th Semester Student at Universitas Darma Persada<br>
