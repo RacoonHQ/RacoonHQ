@@ -4,8 +4,6 @@
 
 ###
 
-<h1 align="center">RacoonHQ</h1>
-
 <h3 align="center">Sayyid Abdullah Azzam</h3>
 
 <p align="center">
